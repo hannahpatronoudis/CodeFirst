@@ -1,0 +1,6 @@
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\bin\Debug\StudentCodeFirst.DomainClasses.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\bin\Debug\StudentCodeFirst.DomainClasses.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\obj\Debug\StudentModel.DomainClasses.csprojResolveAssemblyReference.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\obj\Debug\StudentModel.DomainClasses.csproj.CoreCompileInputs.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\obj\Debug\StudentCodeFirst.DomainClasses.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst.DomainClasses\obj\Debug\StudentCodeFirst.DomainClasses.pdb

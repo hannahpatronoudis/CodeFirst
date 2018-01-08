@@ -1,0 +1,13 @@
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.DataLayer.csprojResolveAssemblyReference.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.DataLayer.csproj.CoreCompileInputs.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.dll.config
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.DomainClasses.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\StudentCodeFirst.DomainClasses.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.xml
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\StudentCodeFirst\obj\Debug\StudentCodeFirst.pdb
