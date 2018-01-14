@@ -1,0 +1,2 @@
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache

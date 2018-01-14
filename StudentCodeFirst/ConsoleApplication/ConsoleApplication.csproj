@@ -55,13 +55,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SalesModel.Repositories\StudentModel.Repositories.csproj">
+      <Project>{fc9b1742-73cd-4bb9-8ac9-574c113c1817}</Project>
+      <Name>StudentModel.Repositories</Name>
+    </ProjectReference>
     <ProjectReference Include="..\StudentCodeFirst.DomainClasses\StudentModel.DomainClasses.csproj">
       <Project>{EBC32040-CE9D-4DB5-8426-35EF14BA038A}</Project>
       <Name>StudentModel.DomainClasses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\StudentCodeFirst\StudentCodeFirst.DataLayer.csproj">
-      <Project>{39248232-D796-4AB3-992E-C947D1C1193C}</Project>
-      <Name>StudentCodeFirst.DataLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

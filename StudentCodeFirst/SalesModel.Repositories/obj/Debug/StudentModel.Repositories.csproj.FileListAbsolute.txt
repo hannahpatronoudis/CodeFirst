@@ -1,0 +1,17 @@
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\SalesModel.Repositories.dll.config
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\SalesModel.Repositories.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\SalesModel.Repositories.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\EntityFramework.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.DomainClasses.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.DomainClasses.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.DomainClasses.dll.config
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.pdb
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\StudentCodeFirst.dll.config
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\EntityFramework.xml
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\obj\Debug\StudentModel.Repositories.csprojResolveAssemblyReference.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\obj\Debug\StudentModel.Repositories.csproj.CoreCompileInputs.cache
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\obj\Debug\SalesModel.Repositories.dll
+H:\.Net Advanced\EntityFramework\Oefeningen\StudentCodeFirst\SalesModel.Repositories\obj\Debug\SalesModel.Repositories.pdb
