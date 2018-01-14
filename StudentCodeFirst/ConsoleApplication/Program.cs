@@ -23,7 +23,7 @@ namespace ConsoleApplication
                 Lastname = "Patronoudis",
                 FirstMidName = "Hannah",
                 EnrollmentDate = DateTime.Now,
-                Enrollments = new Enrollment { }
+                //Enrollments = new Enrollment { }
             };
 
             using (var context = new StudentContext())

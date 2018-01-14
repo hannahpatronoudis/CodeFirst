@@ -14,7 +14,7 @@ namespace StudentCodeFirst.DomainClasses
         public string FirstMidName { get; set; }
         public DateTime EnrollmentDate { get; set; }
 
-        public virtual Enrollment Enrollments { get; set; }
+        public virtual ICollection<Enrollment> Enrollments { get; set; }
 
 
     }

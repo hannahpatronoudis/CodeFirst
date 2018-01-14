@@ -15,13 +15,15 @@ namespace StudentCodeFirst.DataLayer
         public DbSet<Enrollment> Enrollments { get; set; }
         public DbSet<Student> Students { get; set; }
 
-        public StudentContext()
+        public StudentContext() : base("EF1DB")
         {
 
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            /*
+             * NIET NODIG > CONVENTIES VAN EF ZIJN VOLDOENDE
             modelBuilder.Entity<Student>().HasKey(s => s.Id);
             modelBuilder.Entity<Enrollment>().HasKey(e => e.EnrollmentId);
             modelBuilder.Entity<Course>().HasKey(c => c.CourseId);
@@ -30,6 +32,7 @@ namespace StudentCodeFirst.DataLayer
             modelBuilder.Entity<Enrollment>().HasRequired(e => e.Student).WithOptional(s => s.Enrollments);
             //Een enrollment heeft verplicht een course en een course heeft optioneel een enrollment
             modelBuilder.Entity<Enrollment>().HasRequired(e => e.Course).WithOptional(c => c.Enrollments);
+            */ 
 
             base.OnModelCreating(modelBuilder);
         }
