@@ -37,37 +37,34 @@ namespace SalesModel.Repositories
             }
         }
 
-        /*
-        private static void ModifyEnrollment()
+        
+        private static void ModifyEnrollment(int enrollmentId, int newEnrollmentId)
         {
             using (var context = new StudentContext())
             {
-                var enrollment = context.Enrollments.FirstOrDefault(c => c.);
+                var enrollment = context.Enrollments.FirstOrDefault(c => c.EnrollmentId == enrollmentId);
 
                 if (enrollment != null)
                 {
-                    enrollment. = newEnrollment;
+                    enrollment.EnrollmentId = newEnrollmentId;
                     context.SaveChanges();
                 }
             }
         }
-        */
 
-        /*
-        private static void DeleteEnrollment()
+        
+        private static void DeleteEnrollment(int enrollmentId)
         {
             using (var context = new StudentContext())
             {
-                var enrollmentsToDelete = context.Enrollments.Where(c => c. == );
+                var enrollmentsToDelete = context.Enrollments.Where(c => c.EnrollmentId == enrollmentId);
 
                 foreach (var enrollment in enrollmentsToDelete)
                 {
                     context.Enrollments.Remove(enrollment);
                 }
             }
-        }*/
-
-
+        }
 
         //retrieve the courses for which the students are enrolled
 
